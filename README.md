@@ -1,7 +1,9 @@
-# Graphic Computer Work in 2D
-This work is for Graphic Computer discipline for Federal University of Espírito Santo in 2014/2.
+# Graphic Computer Project in 2D
+This project is for Graphic Computer discipline for Federal University of Espírito Santo in 2014/2.
 
 It's a game where you control a tank in a maze (as an PNG image) and you shoot other tanks without taking a single hit.
+
+Video demonstrating: https://youtu.be/S5J_0w78ums
 
 You can change the speed of the tank and cannon ball speed by changing the parameter tankSpeed and shootSpeed, respectively in the config.xml file.
 
